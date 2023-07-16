@@ -2,13 +2,6 @@
 
 Tenho 20 anos, estou cursando Bacharelado em Ciência da Computação, atualmente estou no 6° semestre. Em abril de 2023 entrei como estagiário voluntário no projeto SVSA - Sistema de vigilância socioassistencial, lá eu utilizo as linguagem Java e XHTML, os frameworks JSF e PrimeFaces e o banco de dados MySQL. Estou estudando HTML5, CSS3 e Java.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/andre-franco07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:andrefranco3172@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
 ---
 
 # Linguagens e Ferramentas
