@@ -1,6 +1,6 @@
 # André Franco
 
-Tenho 20 anos, estou cursando Bacharelado em Ciências da Computação, atualmente estou no 6° semestre. Em abril de 2023 entrei como estagiário voluntário no projeto SVSA - Sistema de vigilância socioassistencial, lá eu utilizo as linguagem Java e XHTML, os frameworks JSF e PrimeFaces e o banco de dados MySQL. Estou estudando HTML5, CSS3 e Java.
+Tenho 20 anos, estou cursando Bacharelado em Ciência da Computação, atualmente estou no 6° semestre. Em abril de 2023 entrei como estagiário voluntário no projeto SVSA - Sistema de vigilância socioassistencial, lá eu utilizo as linguagem Java e XHTML, os frameworks JSF e PrimeFaces e o banco de dados MySQL. Estou estudando HTML5, CSS3 e Java.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andre-franco07" target="_blank">
