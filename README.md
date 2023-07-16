@@ -4,9 +4,9 @@ Tenho 20 anos, estou cursando Bacharelado em Ciências da Computação, atualmen
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andre-franco07" target="_blank">
-    <img alt="LinkedIn" title="Acesse meu LinkedIn" target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto:andrefranco3172@gmail.com">
-    <img alt="Gmail" title="Envie um e-mail" target="_blank" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:andrefranco3172@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
