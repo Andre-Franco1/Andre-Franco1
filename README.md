@@ -15,3 +15,11 @@ Tenho 20 anos, estou cursando Bacharelado em Ciência da Computação, atualment
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+
+
+<a href="https://github.com/rahul-jha98/github-stats-transparent">
+
+![](https://raw.githubusercontent.com/Andre-Franco1/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Andre-Franco1/github-stats-transparent/output/generated/languages.svg)
+
+</a>
