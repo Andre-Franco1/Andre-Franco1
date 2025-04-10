@@ -1,6 +1,7 @@
 # André Franco
 
-Tenho 22 anos, estou cursando Bacharelado em Ciência da Computação, atualmente estou no 6° semestre. Em abril de 2023 entrei como estagiário voluntário no projeto SVSA - Sistema de vigilância socioassistencial, lá eu utilizo as linguagens Java e XHTML, a especificação JSF, o framework PrimeFaces e o banco de dados MySQL. Estou estudando Java Spring.
+Tenho 22 anos, sou Bacharel em Ciência da Computação. Em abril de 2023 entrei como estagiário no projeto SVSA - Sistema de vigilância socioassistencial, lá eu utilizo as linguagens Java e XHTML, a especificação JSF, o framework PrimeFaces e o banco de dados MySQL.
+Atualmente estou estudando AWS e IaC.
 
 ---
 
