@@ -1,7 +1,9 @@
 # André Franco
 
 Tenho 22 anos, sou Bacharel em Ciência da Computação. Em abril de 2023 entrei como estagiário no projeto SVSA - Sistema de vigilância socioassistencial, lá eu utilizo as linguagens Java e XHTML, a especificação JSF, o framework PrimeFaces e o banco de dados MySQL.
+
 Ao finalizar a graduação e o estágio decidi ingressar na área de DevOps.
+
 No primeiro semestre de 2025 obtive a certificação AWS Cloud Practitioner e estudei Linux(Cisco), Python(Cisco), Redes e Protocols(Cisco), Docker(Udemy) e GitLab CI(freeCodeCamp).
 Atualmente estou estudando Terraform.
 
