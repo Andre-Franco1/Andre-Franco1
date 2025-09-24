@@ -28,10 +28,6 @@
 
 ## 🎯 Goals  
 
-- Deepen knowledge in Terraform & Kubernetes  
+- Deepen knowledge in AWS  
 - Build scalable CI/CD pipelines  
 - Explore observability tools (Prometheus, Grafana)  
-
----
-
-📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/andre-franco07/) | [Email](andrefranco3172@gmail.com)
