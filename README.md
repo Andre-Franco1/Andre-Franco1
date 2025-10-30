@@ -12,9 +12,10 @@
 - **Cloud:** AWS  
 - **Containers:** Kubernetes, Docker  
 - **IaC:** Terraform 
-- **CI/CD:** GitLab CI, GitHub Actions  
+- **CI/CD:** GitHub Actions  
 - **Programming:** Python, Bash scripting, Java
 - **Databases:** MySQL, PostgreSQL, MongoDB
+- **Frameworks:** Spring Boot, Angular
 - **Other:** Linux, Git, Networking fundamentals  
 
 ---
@@ -29,5 +30,6 @@
 ## 🎯 Goals  
 
 - Deepen knowledge in AWS  
-- Build scalable CI/CD pipelines  
-- Explore observability tools (Prometheus, Grafana)  
+- Build scalable CI/CD pipelines
+- Build Spring + Angular apps
+- Explore observability tools (Prometheus, Grafana)
