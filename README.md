@@ -1,5 +1,3 @@
-🚀 **Aspiring DevOps Engineer**
-
 - 🎓 Bachelor’s in Computer Science (2024)  
 - ☁️ AWS Certified Cloud Practitioner
 - 🐧 Skilled in Linux, Docker, CI/CD, Terraform and Kubernetes
