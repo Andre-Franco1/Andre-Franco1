@@ -1,7 +1,7 @@
 - 🎓 Bachelor’s in Computer Science (2024)  
 - ☁️ AWS Certified Cloud Practitioner
 - 🐧 Skilled in Linux, Docker, CI/CD, Terraform and Kubernetes
-- 📊 Background in backend development (Java, JSF, MySQL, PrimeFaces)    
+- 📊 Backend development (Java, JSF, MySQL, PrimeFaces)    
 
 ---
 
@@ -11,17 +11,10 @@
 - **Containers:** Kubernetes, Docker  
 - **IaC:** Terraform 
 - **CI/CD:** GitHub Actions  
-- **Programming:** Python, Bash scripting, Java
+- **Programming:** Java, Python, Bash scripting
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Frameworks:** Spring Boot, Angular
 - **Other:** Linux, Git, Networking fundamentals  
-
----
-
-## 📂 Featured Projects  
-
-- [**REST API with Flask**](https://github.com/Andre-Franco1/restapi-flask) – Containerized Flask API with MongoDB Atlas, unit tests, CI/CD, and deployment on Heroku.  
-- More projects coming soon…  
 
 ---
 
